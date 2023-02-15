@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ThatRobot
-- 👀 I’m interested in getting a career
-- 🌱 I’m currently learning whateveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me: not yet.
+We'll get there soon.
 
 <!---
 ThatRobot/ThatRobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
